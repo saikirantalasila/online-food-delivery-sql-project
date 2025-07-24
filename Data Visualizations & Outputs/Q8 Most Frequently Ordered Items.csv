@@ -1,0 +1,251 @@
+item_id,item_name,total_orders
+122,"Hakka Noodles",70
+186,"Gulab Jamun",70
+61,Momos,62
+169,"Hakka Noodles",61
+193,"Veg Biryani",58
+146,"Fried Rice",56
+47,"Paneer Tikka",55
+44,"Gulab Jamun",53
+3,"Chole Bhature",52
+50,"Idli Sambar",52
+91,"Paneer Butter Masala",52
+250,"Pav Bhaji",51
+6,"Gulab Jamun",50
+124,"Aloo Paratha",50
+32,Momos,49
+82,Momos,49
+179,"Hakka Noodles",49
+230,"Samosa Chaat",49
+187,"Fish Curry",48
+241,Momos,48
+20,"Chicken 65",47
+67,"Fried Rice",47
+116,"Pav Bhaji",47
+114,"Masala Dosa",46
+233,"Aloo Paratha",46
+8,"Fish Curry",45
+164,"Paneer Tikka",45
+166,"Hakka Noodles",45
+22,"Masala Dosa",44
+38,"Pav Bhaji",44
+54,"Fried Rice",44
+148,"Gulab Jamun",44
+170,"Chicken Biryani",44
+182,"Pav Bhaji",44
+185,"Fish Curry",44
+190,"Paneer Tikka",44
+210,"Paneer Butter Masala",44
+237,"Veg Biryani",44
+14,"Fish Curry",43
+120,Momos,43
+27,"Paneer Tikka",42
+108,"Hakka Noodles",42
+211,"Butter Chicken",42
+214,"Dal Tadka",42
+226,"Masala Dosa",42
+243,"Idli Sambar",42
+73,"Fish Curry",41
+84,"Aloo Paratha",41
+117,"Chicken 65",41
+201,"Kadai Paneer",41
+244,"Aloo Paratha",41
+16,Rasgulla,40
+52,"Chole Bhature",40
+127,"Kadai Paneer",40
+128,"Chicken 65",40
+152,"Aloo Paratha",40
+171,"Fish Curry",40
+181,"Masala Dosa",40
+229,"Veg Biryani",40
+248,"Paneer Butter Masala",40
+48,"Hakka Noodles",39
+53,"Fried Rice",39
+77,"Paneer Tikka",39
+147,"Pav Bhaji",39
+203,"Masala Dosa",39
+209,"Paneer Tikka",39
+238,"Paneer Butter Masala",39
+4,"Chicken Biryani",38
+37,"Butter Chicken",38
+43,"Chicken Biryani",38
+99,"Fried Rice",38
+125,"Fish Curry",38
+155,"Paneer Butter Masala",38
+162,"Veg Biryani",38
+197,"Fish Curry",38
+231,"Gulab Jamun",38
+18,"Aloo Paratha",37
+31,"Idli Sambar",37
+174,Momos,37
+219,"Idli Sambar",37
+222,"Paneer Butter Masala",37
+249,"Aloo Paratha",37
+17,"Paneer Tikka",36
+24,"Aloo Paratha",36
+33,"Dal Tadka",36
+45,"Hakka Noodles",36
+76,"Pav Bhaji",36
+183,Momos,36
+232,"Chicken 65",36
+236,Momos,36
+10,"Butter Chicken",35
+15,"Chicken Biryani",35
+79,"Paneer Tikka",35
+86,"Chicken Biryani",35
+103,Momos,35
+109,"Samosa Chaat",35
+138,"Chicken Biryani",35
+142,"Paneer Tikka",35
+177,"Chicken Biryani",35
+178,"Fish Curry",35
+198,"Aloo Paratha",35
+212,"Fish Curry",35
+25,"Masala Dosa",34
+65,"Aloo Paratha",34
+75,"Paneer Tikka",34
+95,"Butter Chicken",34
+11,"Dal Tadka",33
+36,"Kadai Paneer",33
+57,"Aloo Paratha",33
+78,"Kadai Paneer",33
+80,"Fish Curry",33
+113,"Dal Tadka",33
+139,"Kadai Paneer",33
+168,"Gulab Jamun",33
+21,"Samosa Chaat",32
+29,"Samosa Chaat",32
+88,"Idli Sambar",32
+96,"Chicken 65",32
+163,"Veg Biryani",32
+220,"Butter Chicken",32
+42,"Fried Rice",31
+56,"Fish Curry",31
+59,"Aloo Paratha",31
+100,"Chicken 65",31
+110,"Dal Tadka",31
+112,"Chicken Biryani",31
+129,"Paneer Butter Masala",31
+137,"Masala Dosa",31
+154,"Kadai Paneer",31
+157,Momos,31
+194,"Hakka Noodles",31
+196,"Samosa Chaat",31
+1,Rasgulla,30
+23,Rasgulla,30
+30,"Gulab Jamun",30
+35,Rasgulla,30
+63,"Chole Bhature",30
+106,Rasgulla,30
+134,"Butter Chicken",30
+184,"Fried Rice",30
+202,"Chicken Biryani",30
+218,"Aloo Paratha",30
+224,"Paneer Butter Masala",30
+227,"Veg Biryani",30
+245,"Butter Chicken",30
+81,Momos,29
+107,"Fish Curry",29
+135,"Aloo Paratha",29
+151,"Idli Sambar",29
+225,"Gulab Jamun",29
+239,"Masala Dosa",29
+5,"Samosa Chaat",28
+69,"Paneer Tikka",28
+121,"Chole Bhature",28
+132,"Paneer Butter Masala",28
+144,"Hakka Noodles",28
+150,"Chole Bhature",28
+189,"Aloo Paratha",28
+205,"Chole Bhature",28
+207,"Pav Bhaji",28
+208,"Fried Rice",28
+7,"Gulab Jamun",27
+26,"Paneer Butter Masala",27
+60,Rasgulla,27
+93,"Chicken Biryani",27
+192,"Masala Dosa",27
+213,"Gulab Jamun",27
+221,"Masala Dosa",27
+235,"Paneer Butter Masala",27
+19,Momos,26
+55,Momos,26
+70,"Fish Curry",26
+97,Momos,26
+111,Rasgulla,26
+161,"Chole Bhature",26
+176,"Dal Tadka",26
+9,"Fish Curry",25
+13,"Paneer Tikka",25
+46,"Samosa Chaat",25
+58,"Chole Bhature",25
+64,"Hakka Noodles",25
+72,"Idli Sambar",25
+74,Momos,25
+98,"Butter Chicken",25
+115,"Chicken 65",25
+188,Rasgulla,25
+215,"Hakka Noodles",25
+217,"Veg Biryani",25
+234,"Idli Sambar",25
+242,"Chole Bhature",25
+12,"Hakka Noodles",24
+34,"Pav Bhaji",24
+62,"Veg Biryani",24
+136,"Fried Rice",24
+158,"Chicken 65",24
+160,"Dal Tadka",24
+216,"Pav Bhaji",24
+223,"Idli Sambar",24
+2,"Gulab Jamun",23
+41,"Paneer Butter Masala",23
+87,"Chicken 65",23
+102,Momos,23
+126,"Idli Sambar",23
+131,"Chicken Biryani",23
+195,"Paneer Tikka",23
+204,"Dal Tadka",23
+90,"Hakka Noodles",22
+123,"Kadai Paneer",22
+153,"Paneer Butter Masala",22
+175,Rasgulla,22
+199,"Dal Tadka",22
+200,Momos,22
+228,"Paneer Tikka",22
+40,"Dal Tadka",21
+206,Rasgulla,21
+28,"Fish Curry",20
+89,Momos,20
+101,"Dal Tadka",20
+104,"Fried Rice",20
+143,"Paneer Butter Masala",20
+240,Rasgulla,20
+246,"Veg Biryani",20
+71,"Masala Dosa",19
+83,"Gulab Jamun",19
+140,"Fried Rice",19
+141,"Samosa Chaat",19
+149,"Dal Tadka",19
+247,"Paneer Butter Masala",19
+92,"Gulab Jamun",18
+94,"Fish Curry",18
+133,"Fried Rice",18
+180,"Paneer Tikka",18
+191,"Paneer Tikka",18
+39,"Paneer Tikka",17
+165,"Samosa Chaat",17
+68,"Dal Tadka",16
+119,"Pav Bhaji",16
+130,"Aloo Paratha",16
+172,"Samosa Chaat",16
+85,"Dal Tadka",15
+105,"Masala Dosa",15
+49,"Fish Curry",14
+156,"Fish Curry",14
+51,"Gulab Jamun",13
+145,"Paneer Tikka",13
+159,"Kadai Paneer",13
+167,"Aloo Paratha",13
+66,"Chicken Biryani",12
+118,"Masala Dosa",12
+173,"Fried Rice",7
