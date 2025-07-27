@@ -8,9 +8,11 @@ A data-driven project that simulates a real-world online food delivery system us
 
 To **design and analyze** a scalable and normalized relational database for an online food delivery platform that:
 
-- Stores customers, restaurants, menu items, and orders
-- Executes business-driven SQL queries
-- Produces visual insights for decision-making
+- Design and implement a robust database to store key entities: customers, restaurants, menu items, orders, and order details.
+
+- Write business-driven SQL queries to extract meaningful insights.
+
+- Generate visualizations and outputs that support data-driven decision-making.
 
 ---
 
@@ -28,9 +30,9 @@ The project consists of **5 interrelated tables**:
 
 ---
 
-## 🔗 ER Diagram
+## 🗂️ Entity-Relationship Diagram (ERD)
 
-![ERD]()
+![ER Diagram](https://github.com/saikirantalasila/online-food-delivery-sql-project/blob/main/online_food_delivery_sql_tasks/online_food_del_Er_Diagram.png?raw=true)
 
 ---
 
