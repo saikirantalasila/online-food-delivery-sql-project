@@ -30,7 +30,7 @@ The project consists of **5 interrelated tables**:
 
 ## 🔗 ER Diagram
 
-![ERD](ERD.png)
+![ERD]()
 
 ---
 
