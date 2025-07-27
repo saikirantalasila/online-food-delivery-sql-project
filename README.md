@@ -77,7 +77,15 @@ GROUP BY MONTH(order_date), MONTHNAME(order_date)
 ORDER BY month_number;
 ```
 
-🔎 [Explore more queries inside the `online_food_delivery_sql_tasks` folder](https://github.com/saikirantalasila/online-food-delivery-sql-project/tree/main/online_food_delivery_sql_tasks)
+🔎 [Explore more queries inside the `online_food_delivery_sql_tasks` folder](https://github.com/saikirantalasila/online-food-delivery-sql-project/tree/main/online_food_delivery_sql_tasks)  
+*Here you can find additional SQL queries related to the Online Food Delivery project, covering various tasks and problem-solving scripts.*
+
+📂 [Online Food Delivery Data Set](https://github.com/saikirantalasila/online-food-delivery-sql-project/tree/main/Online_Food_Delivery_Data_Set)  
+*This folder contains the raw data files used for the Online Food Delivery project, including tables like orders, customers, restaurants, and more.*
+
+📊 [Data Visualizations & Outputs](https://github.com/saikirantalasila/online-food-delivery-sql-project/tree/main/Data%20Visualizations%20%26%20Outputs)  
+*View the charts, graphs, and output screenshots generated from the analysis and SQL queries on the Online Food Delivery data.*
+
 
 ---
 
@@ -116,7 +124,9 @@ git clone https://github.com/saikirantalasila/online-food-delivery-sql-project.g
 
 **Sai Kiran Talasila**  
 📧 [talasilasaikiran873@gmail.com](mailto:talasilasaikiran873@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/saikirantalasila)
+[![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png) LinkedIn](https://www.linkedin.com/in/saikirantalasila-databasedeveloper/)
+
+
 
 ---
 
