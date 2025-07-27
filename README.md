@@ -77,7 +77,7 @@ GROUP BY MONTH(order_date), MONTHNAME(order_date)
 ORDER BY month_number;
 ```
 
-🔎 Explore more queries inside the `online_food_delivery_sql_tasks` folder
+🔎 [Explore more queries inside the `online_food_delivery_sql_tasks` folder](https://github.com/saikirantalasila/online-food-delivery-sql-project/tree/main/online_food_delivery_sql_tasks)
 
 ---
 
